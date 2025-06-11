@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Bold Makeup Tutorial",
-      "category": "Bold",
+      "category": "Bold Makeup",  // Updated to match the image category
       "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1749630136/bold_p57hzz.mp4",
       "thumbnail": "https://res.cloudinary.com/dqj8h5ivm/image/upload/v1740222748/Bold_rutbmn.jpg",
       "description": "A step-by-step tutorial on bold makeup."
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Natural Makeup Tutorial",
-      "category": "Natural",
+      "category": "Natural Makeup",  // Updated to match the image category
       "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1749630344/soft_glam_uowmok.mp4",
       "thumbnail": "https://res.cloudinary.com/dqj8h5ivm/image/upload/v1740222774/Natural_euzeaw.jpg",
       "description": "Learn how to achieve natural makeup for every day."
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "Party Makeup Tutorial",
-      "category": "Party",
+      "category": "Party Makeup",  // Updated to match the image category
       "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1749630169/party_cvxb9d.mp4",
       "thumbnail": "https://res.cloudinary.com/dqj8h5ivm/image/upload/v1740222732/The_18_Best_New_Beauty_Products_According_to_Makeup_Artists_qldued.jpg",
       "description": "Create the perfect party makeup look!"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "title": "Soft Glam Makeup Tutorial",
-      "category": "Soft Glam",
+      "category": "Soft-Glam Makeup",  // Updated to match the image category
       "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1749630232/soft_glam_jic1aj.mp4",
       "thumbnail": "https://res.cloudinary.com/dqj8h5ivm/image/upload/v1740222807/Soft_rzo3cg.jpg",
       "description": "Master the soft glam makeup look."
