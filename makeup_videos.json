@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Bold Makeup Tutorial",
-      "category": "Bold Makeup",  
+      "category": "Bold Makeup",
       "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1749630136/bold_p57hzz.mp4",
       "thumbnail": "https://res.cloudinary.com/dqj8h5ivm/image/upload/v1740222748/Bold_rutbmn.jpg",
       "description": "A step-by-step tutorial on bold makeup."
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Natural Makeup Tutorial",
-      "category": "Natural Makeup", 
+      "category": "Natural Makeup",
       "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1749630344/soft_glam_uowmok.mp4",
       "thumbnail": "https://res.cloudinary.com/dqj8h5ivm/image/upload/v1740222774/Natural_euzeaw.jpg",
       "description": "Learn how to achieve natural makeup for every day."
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "Party Makeup Tutorial",
-      "category": "Party Makeup", 
+      "category": "Party Makeup",
       "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1749630169/party_cvxb9d.mp4",
       "thumbnail": "https://res.cloudinary.com/dqj8h5ivm/image/upload/v1740222732/The_18_Best_New_Beauty_Products_According_to_Makeup_Artists_qldued.jpg",
       "description": "Create the perfect party makeup look!"
@@ -27,10 +27,314 @@
     {
       "id": 4,
       "title": "Soft Glam Makeup Tutorial",
-      "category": "Soft-Glam Makeup",  
+      "category": "Soft-Glam Makeup",
       "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1749630232/soft_glam_jic1aj.mp4",
       "thumbnail": "https://res.cloudinary.com/dqj8h5ivm/image/upload/v1740222807/Soft_rzo3cg.jpg",
       "description": "Master the soft glam makeup look."
+    },
+    {
+      "id": 5,
+      "title": "Bold Makeup Video 5",
+      "category": "Bold Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157371/1000444179_jpidyb.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Bold Makeup style."
+    },
+    {
+      "id": 6,
+      "title": "Bold Makeup Video 6",
+      "category": "Bold Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157370/1000444174_ae9wz1.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Bold Makeup style."
+    },
+    {
+      "id": 7,
+      "title": "Bold Makeup Video 7",
+      "category": "Bold Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157369/1000444168_wxgmup.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Bold Makeup style."
+    },
+    {
+      "id": 8,
+      "title": "Bold Makeup Video 8",
+      "category": "Bold Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157367/1000444171_y4tytj.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Bold Makeup style."
+    },
+    {
+      "id": 9,
+      "title": "Bold Makeup Video 9",
+      "category": "Bold Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157364/1000444164_qwvrfy.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Bold Makeup style."
+    },
+    {
+      "id": 10,
+      "title": "Bold Makeup Video 10",
+      "category": "Bold Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157363/1000444165_r4jajl.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Bold Makeup style."
+    },
+    {
+      "id": 11,
+      "title": "Bold Makeup Video 11",
+      "category": "Bold Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157361/1000444161_be5cyn.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Bold Makeup style."
+    },
+    {
+      "id": 12,
+      "title": "Bold Makeup Video 12",
+      "category": "Bold Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157361/1000444162_at6avj.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Bold Makeup style."
+    },
+    {
+      "id": 13,
+      "title": "Bold Makeup Video 13",
+      "category": "Bold Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157358/1000444158_oyurnz.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Bold Makeup style."
+    },
+    {
+      "id": 14,
+      "title": "Natural Makeup Video 14",
+      "category": "Natural Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157571/1000444190_pifkxc.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Natural Makeup style."
+    },
+    {
+      "id": 15,
+      "title": "Natural Makeup Video 15",
+      "category": "Natural Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157570/1000444142_ru9zia.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Natural Makeup style."
+    },
+    {
+      "id": 16,
+      "title": "Natural Makeup Video 16",
+      "category": "Natural Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157570/1000444167_xpilkc.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Natural Makeup style."
+    },
+    {
+      "id": 17,
+      "title": "Natural Makeup Video 17",
+      "category": "Natural Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157569/1000444173_d0svhg.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Natural Makeup style."
+    },
+    {
+      "id": 18,
+      "title": "Natural Makeup Video 18",
+      "category": "Natural Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157568/1000444146_s4kfym.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Natural Makeup style."
+    },
+    {
+      "id": 19,
+      "title": "Natural Makeup Video 19",
+      "category": "Natural Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157565/1000444143_ratwxj.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Natural Makeup style."
+    },
+    {
+      "id": 20,
+      "title": "Natural Makeup Video 20",
+      "category": "Natural Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157562/1000444188_v7czx2.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Natural Makeup style."
+    },
+    {
+      "id": 21,
+      "title": "Natural Makeup Video 21",
+      "category": "Natural Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157561/1000444181_mivel5.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Natural Makeup style."
+    },
+    {
+      "id": 22,
+      "title": "Natural Makeup Video 22",
+      "category": "Natural Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157558/1000444178_amgjnf.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Natural Makeup style."
+    },
+    {
+      "id": 23,
+      "title": "Party Makeup Video 23",
+      "category": "Party Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157721/1000444182_kao8ry.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Party Makeup style."
+    },
+    {
+      "id": 24,
+      "title": "Party Makeup Video 24",
+      "category": "Party Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157713/1000444163_jos6un.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Party Makeup style."
+    },
+    {
+      "id": 25,
+      "title": "Party Makeup Video 25",
+      "category": "Party Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157710/1000444168_nhlikx.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Party Makeup style."
+    },
+    {
+      "id": 26,
+      "title": "Party Makeup Video 26",
+      "category": "Party Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157709/1000444153_job5uy.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Party Makeup style."
+    },
+    {
+      "id": 27,
+      "title": "Party Makeup Video 27",
+      "category": "Party Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157704/1000444150_jrnrzy.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Party Makeup style."
+    },
+    {
+      "id": 28,
+      "title": "Party Makeup Video 28",
+      "category": "Party Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157701/1000444148_jliffv.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Party Makeup style."
+    },
+    {
+      "id": 29,
+      "title": "Party Makeup Video 29",
+      "category": "Party Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157700/1000444145_yp0rqx.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Party Makeup style."
+    },
+    {
+      "id": 30,
+      "title": "Party Makeup Video 30",
+      "category": "Party Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157699/1000444147_hpxutw.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Party Makeup style."
+    },
+    {
+      "id": 31,
+      "title": "Party Makeup Video 31",
+      "category": "Party Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157695/1000444144_ryotcd.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Party Makeup style."
+    },
+    {
+      "id": 32,
+      "title": "Soft-Glam Makeup Video 32",
+      "category": "Soft-Glam Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157936/1000444144_grlkpj.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Soft-Glam Makeup style."
+    },
+    {
+      "id": 33,
+      "title": "Soft-Glam Makeup Video 33",
+      "category": "Soft-Glam Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157936/1000444147_fqgk4o.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Soft-Glam Makeup style."
+    },
+    {
+      "id": 34,
+      "title": "Soft-Glam Makeup Video 34",
+      "category": "Soft-Glam Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157932/1000444185_qlpvnz.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Soft-Glam Makeup style."
+    },
+    {
+      "id": 35,
+      "title": "Soft-Glam Makeup Video 35",
+      "category": "Soft-Glam Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157933/1000444192_w3cvvd.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Soft-Glam Makeup style."
+    },
+    {
+      "id": 36,
+      "title": "Soft-Glam Makeup Video 36",
+      "category": "Soft-Glam Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157927/1000444180_iswlev.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Soft-Glam Makeup style."
+    },
+    {
+      "id": 37,
+      "title": "Soft-Glam Makeup Video 37",
+      "category": "Soft-Glam Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157924/1000444172_pwiocm.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Soft-Glam Makeup style."
+    },
+    {
+      "id": 38,
+      "title": "Soft-Glam Makeup Video 38",
+      "category": "Soft-Glam Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157923/1000444170_iaaz3g.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Soft-Glam Makeup style."
+    },
+    {
+      "id": 39,
+      "title": "Soft-Glam Makeup Video 39",
+      "category": "Soft-Glam Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157920/1000444160_gskie0.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Soft-Glam Makeup style."
+    },
+    {
+      "id": 40,
+      "title": "Soft-Glam Makeup Video 40",
+      "category": "Soft-Glam Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157918/1000444154_t68um5.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Soft-Glam Makeup style."
+    },
+    {
+      "id": 41,
+      "title": "Soft-Glam Makeup Video 41",
+      "category": "Soft-Glam Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157916/1000444153_vtdvqb.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Soft-Glam Makeup style."
+    },
+    {
+      "id": 42,
+      "title": "Soft-Glam Makeup Video 42",
+      "category": "Soft-Glam Makeup",
+      "videoUrl": "https://res.cloudinary.com/dqj8h5ivm/video/upload/v1750157894/1000444148_qelf5h.mp4",
+      "thumbnail": "",
+      "description": "A tutorial in the Soft-Glam Makeup style."
     }
   ]
 }
